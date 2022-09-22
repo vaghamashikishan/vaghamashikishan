@@ -16,7 +16,7 @@
 
 hi, i'm Kishan Vaghamashi, a passionate self-taught Angular developer and a junior web developer at Responscity in india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="center" alt="GIF" src="https://github.com/vaghamashikishan/vaghamashikishan/blob/master/kishan_vaghamashi.gif?raw=true" width="500" height="320" />
+<p align="center"><img alt="GIF" src="https://github.com/vaghamashikishan/vaghamashikishan/blob/main/kishan_vaghamashi.gif" width="500" height="320" /></p>
   
 - 💼 any freelance work? do reach, [email](mailto:kishanvaghamashicoder@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
