@@ -35,3 +35,4 @@ hi, i'm Kishan Vaghamashi, a passionate self-taught Angular developer and a juni
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaghamashikishan&show_icons=true&theme=gotham" alt="kishan_vaghamashi_stats" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaghamashikishan&show_icons=true&locale=en&layout=compact" alt="kishan_vaghamashi" /></p>
