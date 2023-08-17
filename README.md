@@ -4,10 +4,10 @@
   <img align="left" alt="Kishan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/iamvaghamashi">
-  <img align="left" alt="Kishan Vaghamashi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Kishan Vaghamashi | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://in.linkedin.com/in/kishan-vaghamashi-3b17861b8">
-  <img align="left" alt="Kishan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kishan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vaghamashikishan.vaghamashikishan)
